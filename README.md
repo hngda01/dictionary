@@ -1,2 +1,2 @@
 # dictionary
-(https://travis-ci.org/Gregwar/Image)
+![resize()](nen.jpg)
